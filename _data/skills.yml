@@ -1,6 +1,8 @@
 # Get regular icons from fontawesome: https://fontawesome.com/
 # Get dev icons from devicon: https://devicon.dev/
 
+
+
 # Language Section
 - name: Languages
   skills:    
@@ -15,7 +17,31 @@
     - skill: JavaScript
       profeciency: Intermediate
       icon: devicon-javascript-plain
+      
+    - skill: Bash
+      profeciency: Intermediate
+      icon: devicon-bash-plain
+      
+# interpersonal section
+- name: Platforms
+  skills:
+    - skill: Communication Skills
+      profeciency: Beginner
+      icon: devicon-linux-plain
 
+    - skill: Amazon Web Services
+      profeciency: Intermediate
+      icon: devicon-amazonwebservices-original
+
+    - skill: Google Cloud Platform
+      profeciency: Advanced
+      icon: devicon-googlecloud-plain 
+      
+    - skill: Google Cloud Platform
+      profeciency: Advanced
+      icon: devicon-firebase-plain
+      
+      
 # frameworks section
 - name: Frameworks
   skills:
@@ -29,24 +55,44 @@
       
     - skill: Express.js
       profeciency: Beginner
-      icon: devicon-express-original
+      icon: devicon-express-original 
+      
+    - skill: Express.js
+      profeciency: Beginner
+      icon: devicon-nodejs-plain
+
+      
+# interpersonal section
+- name: Microservices and Severless 
+  skills:
+    - skill: Docker
+      profeciency: Beginner
+      icon: devicon-docker-plain
+
+    - skill: Kubernetes
+      profeciency: Intermediate
+      icon: devicon-git-plain
+
+    - skill: AWS Lambda
+      profeciency: Advanced
+      icon: devicon-amazonwebservices-original
 
 # interpersonal section
-- name: Soft Skills
+- name: Developer Tools 
   skills:
-    - skill: Communication Skills
+    - skill: Linux
       profeciency: Beginner
       icon: fas fa-satellite-dish
 
     - skill: Presentation Skills
       profeciency: Intermediate
-      icon: fas fa-file-powerpoint
+      icon: devicon-github-original
 
     - skill: Team Player
       profeciency: Advanced
-      icon: fas fa-users
+      icon: devicon-jenkins-line
       
-      # interpersonal section
+# interpersonal section
 - name: Soft Skills
   skills:
     - skill: Communication Skills
