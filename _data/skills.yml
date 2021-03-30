@@ -8,13 +8,13 @@
       profeciency: Intermediate
       icon: devicon-python-plain
       
-    - skill: C++
+    - skill: Ruby
       profeciency: Beginner
-      icon: devicon-c-plain
+      icon: devicon-ruby-plain
 
-    - skill: Java
+    - skill: JavaScript
       profeciency: Intermediate
-      icon: devicon-java-plain
+      icon: devicon-javascript-plain
 
 # frameworks section
 - name: Frameworks
