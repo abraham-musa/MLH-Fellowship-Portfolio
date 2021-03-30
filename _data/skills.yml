@@ -45,3 +45,18 @@
     - skill: Team Player
       profeciency: Advanced
       icon: fas fa-users
+      
+      # interpersonal section
+- name: Soft Skills
+  skills:
+    - skill: Communication Skills
+      profeciency: Beginner
+      icon: fas fa-satellite-dish
+
+    - skill: Presentation Skills
+      profeciency: Intermediate
+      icon: fas fa-file-powerpoint
+
+    - skill: Team Player
+      profeciency: Advanced
+      icon: fas fa-users
