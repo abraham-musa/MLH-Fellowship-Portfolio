@@ -1,21 +1,39 @@
-- title: Social Good!
-  event: MLH Fellowship Explorer Sprint 5
-  date: Fall 2020 - Batch 1
+- title: Cloud Resume Challenge
+  event: AWS re/Start
+  date: Fall 2021
+  page-name: Cloud Resume Challenge
 
-- title: Developer Tools!
-  event: MLH Fellowship Explorer Sprint 4
-  date: Fall 2020 - Batch 1
+- title: UNA Cloud Deployement
+  event: United Nations Association
+  date: Fall 2020 
+  page-name: UNA Cloud Deployement
 
-- title: Machine Learning Project
+- title: AWS Innovator Island
   event: MLH Fellowship Explorer Sprint 3
   date: Fall 2020 - Batch 1
+  page-name: AWS Innovator Island
 
-- title: Fun Game
+- title: Python Social Media Web Application
   event: MLH Fellowship Explorer Sprint 2
   date: Fall 2020 - Batch 1
-  page-name: Sprint2
-
-- title: Flash Card Generator
-  event: MLH Fellowship Explorer Sprint 1
+  page-name: Python Social Media Web Application
+  
+- title: AWS Python and Shell Scripts
+  event: Amazon Web Services
+  date: Fall 2019
+  page-name: AWS Python and Shell Scripts
+  
+- title: AWS Cloud Workshops
+  event: Amazon Web Services
   date: Fall 2020 - Batch 1
-  page-name: Sprint1
+  page-name: AWS Cloud Workshops
+  
+- title: QwikLab's Cloud Quests
+  event: QwikLabs
+  date: Fall 2019
+  page-name: QwikLab's Cloud Quests
+
+- title: Coding Challenges
+  event: MLH Fellowship Explorer Sprint 1
+  date: Fall 2018
+  page-name: Coding Challenges
