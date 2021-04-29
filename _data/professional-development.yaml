@@ -5,9 +5,9 @@
 
 
 # Language Section
-- name: Languages
+- name: QwikLabs
   skills:    
-    - skill: Python
+    - skill: Solutions Architect Quest
       profeciency: Intermediate
       icon: devicon-python-plain
       
