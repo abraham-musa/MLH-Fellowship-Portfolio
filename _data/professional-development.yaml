@@ -1,0 +1,109 @@
+  
+# Get regular icons from fontawesome: https://fontawesome.com/
+# Get dev icons from devicon: https://devicon.dev/
+
+
+
+# Language Section
+- name: Languages
+  skills:    
+    - skill: Python
+      profeciency: Intermediate
+      icon: devicon-python-plain
+      
+    - skill: Ruby
+      profeciency: Beginner
+      icon: devicon-ruby-plain
+
+    - skill: JavaScript
+      profeciency: Intermediate
+      icon: devicon-javascript-plain
+      
+    - skill: Bash
+      profeciency: Intermediate
+      icon: devicon-bash-plain
+      
+# interpersonal section
+- name: Platforms
+  skills:
+    - skill: Communication Skills
+      profeciency: Beginner
+      icon: devicon-linux-plain
+
+    - skill: Amazon Web Services
+      profeciency: Intermediate
+      icon: devicon-amazonwebservices-original
+
+    - skill: Google Cloud Platform
+      profeciency: Advanced
+      icon: devicon-googlecloud-plain 
+      
+    - skill: Google Cloud Platform
+      profeciency: Advanced
+      icon: devicon-firebase-plain
+      
+      
+# frameworks section
+- name: Frameworks
+  skills:
+    - skill: Flutter
+      profeciency: Intermediate
+      icon: devicon-flutter-plain
+
+    - skill: Django
+      profeciency: Advanced
+      icon: devicon-django-plain
+      
+    - skill: Express.js
+      profeciency: Beginner
+      icon: devicon-express-original 
+      
+    - skill: Express.js
+      profeciency: Beginner
+      icon: devicon-nodejs-plain
+
+      
+# interpersonal section
+- name: Microservices and Severless 
+  skills:
+    - skill: Docker
+      profeciency: Beginner
+      icon: devicon-docker-plain
+
+    - skill: Kubernetes
+      profeciency: Intermediate
+      icon: devicon-git-plain
+
+    - skill: AWS Lambda
+      profeciency: Advanced
+      icon: devicon-amazonwebservices-original
+
+# interpersonal section
+- name: Developer Tools 
+  skills:
+    - skill: Linux
+      profeciency: Beginner
+      icon: fas fa-satellite-dish
+
+    - skill: Presentation Skills
+      profeciency: Intermediate
+      icon: devicon-github-original
+
+    - skill: Team Player
+      profeciency: Advanced
+      icon: devicon-jenkins-line
+      
+# interpersonal section
+- name: Soft Skills
+  skills:
+    - skill: Communication Skills
+      profeciency: Beginner
+      icon: fas fa-satellite-dish
+
+    - skill: Presentation Skills
+      profeciency: Intermediate
+      icon: fas fa-file-powerpoint
+
+    - skill: Team Player
+      profeciency: Advanced
+      icon: fas fa-users
