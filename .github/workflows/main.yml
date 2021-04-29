@@ -1,3 +1,4 @@
-- name: AWS Deploy S3
-  uses: oneyedev/aws-deploy-s3@v1
+- name: S3 Sync
+  uses: jakejarvis/s3-sync-action@v0.5.1
+
   
