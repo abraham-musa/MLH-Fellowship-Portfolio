@@ -1,34 +1,19 @@
-- course: AWS re/Start
+- course: HackerRank
   institute: Per Scholas
   dates: Current
-  logo: uob.png
+  logo: hacker_rank.png
   
-- course: Cisco CyberVets
+- course: QwikLabs
   institute: Cisco
   dates: Fall 2020
-  logo: fellowship.svg
+  logo: qwiklabs.png
   
 - course: ISC² CyberWarriors
   institute: ISC² CyberWarriors
   dates: 2019 - 2021
-  logo: uob.png
+  logo: Hacker_Rank2.png
   
 - course: Institute for Veterans and Military Families (IVMF)
   institute: Google IT Professional Certification
   dates: Fall 2019
-  logo: fellowship.svg
-  
-- course: NPower IT Apprenticeship
-  institute: NPower
-  dates: 2018 - 2021
-  logo: uob.png
-  
-- course: Advanced Individual Training (AIT) - Information Technology Specialist (25B)
-  institute: United States Army 
-  dates: May 2015
-  logo: fellowship.svg
-  
-- course: Explorer Fellow
-  institute: Rutgers University 
-  dates: Fall 2005 - Spring 2010
   logo: fellowship.svg
